@@ -42,6 +42,12 @@ I'm a freelance developer with a knack for tackling full-stack projects and meet
 - **CI/CD** – Automated testing & deployment pipelines (GitHub Actions, Travis CI)
 - **AWS / Azure / GCP** – Cloud services for scalable applications
 
+### Desktop Programming & Automation
+- **Unity** – Developing interactive experiences/mods/workshops using **C#**
+- **Windows Tools** – Building robust desktop applications with **WinForms** using **.NET/C#**
+- **Automation & Scripting** – Automating repetitive tasks with **Python** and **PowerShell**
+
+
 ---
 
 ## Connect with Me
